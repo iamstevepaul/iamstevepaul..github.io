@@ -1,6 +1,5 @@
 ## Steve Paul
 
-You can use the [editor on GitHub](https://github.com/iamstevepaul/iamstevepaul.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -31,3 +30,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 
 Email: stevepau@buffalo.edu
+[LinkedIn](https://www.linkedin.com/in/steve-paul-67699854/)
+[Github](https://github.com/iamstevepaul)
+[Google Scholar] (https://scholar.google.com/citations?user=zRf7acsAAAAJ&hl=en&authuser=1)
