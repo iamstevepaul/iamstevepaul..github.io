@@ -32,4 +32,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Email: stevepau@buffalo.edu
 [LinkedIn](https://www.linkedin.com/in/steve-paul-67699854/)
 [Github](https://github.com/iamstevepaul)
-[Google Scholar] (https://scholar.google.com/citations?user=zRf7acsAAAAJ&hl=en&authuser=1)
+[Google Scholar](https://scholar.google.com/citations?user=zRf7acsAAAAJ&hl=en&authuser=1)
