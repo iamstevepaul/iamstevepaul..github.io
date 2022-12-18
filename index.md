@@ -16,15 +16,21 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
 
 ## Projects
 
-### Multi-Robot Task Allocation (MRTA) using Graph Reinforcement Learning
+### Graph based Reinforcement Learning for Complex Combinatorial Optmization Problems
+
+#### Multi-Robot Task Allocation
+
+#### Urban Air Mobility (UAM) Fleet Scheduling
+
+#### Power Network Recongifugration
 
 
 
 
 
 
-For more details see 
-ic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<!-- For more details see 
+ic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
 
 
 
