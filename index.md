@@ -3,7 +3,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/39541194/179893972-5e803669-9b58-4531-bce8-45f0a7470f24.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/39541194/179893972-5e803669-9b58-4531-bce8-45f0a7470f24.jpg" width="300" height="450">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/39541194/179893972-5e803669-9b58-4531-bce8-45f0a7470f24.jpg" width="300" height="400">
 </picture>
 <!-- <picture>
 <img class="img" src="https://user-images.githubusercontent.com/39541194/179893972-5e803669-9b58-4531-bce8-45f0a7470f24.jpg" width="300" height="300">
