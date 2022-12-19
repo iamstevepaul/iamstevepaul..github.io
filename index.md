@@ -26,11 +26,15 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
   Learning architecture
   Results
   Publications -->
- <summary>Preview</summary>
+ <summary>Multi-Robot Task Allocation (MRTA)</summary>
  <figure class="highlight">
     <pre>
         <code class="language-ruby" data-lang="ruby">
-        <span class="nb">puts</span> <span class="s1">'Expanded message'</span>
+        <span class="nb">puts</span> <span class="s1">'Description
+  Formulation
+  Learning architecture
+  Results
+  Publications'</span>
         </code>
     </pre>
 </figure>
