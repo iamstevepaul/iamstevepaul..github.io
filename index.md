@@ -27,13 +27,16 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
   Results
   Publications -->
  <summary>Preview</summary>
- <figure class="highlight">
+<!--  <figure class="highlight">
     <pre>
         <code class="language-ruby" data-lang="ruby">
         <span class="nb">puts</span> <span class="s1">'Expanded message'</span>
         </code>
     </pre>
-</figure>
+</figure> -->
+ {% highlight ruby %}
+puts 'Expanded message'
+{% endhighlight %}
 </details>
 
 
