@@ -15,10 +15,11 @@
 Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State University of New York at Buffalo (2020 - Present)
 
 ## Projects
+<summary>Click me</summary>
 
 ### Graph based Reinforcement Learning for Complex Combinatorial Optmization Problems
 
-#### Multi-Robot Task Allocation
+#### Multi-Robot Task Allocation (MRTA)
 
 #### Urban Air Mobility (UAM) Fleet Scheduling
 
