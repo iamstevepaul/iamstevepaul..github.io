@@ -18,8 +18,9 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
 ## Projects
 
 ### Graph based Reinforcement Learning for Complex Combinatorial Optmization Problems
-#### <details>
-<summary>Multi-Robot Task Allocation (MRTA)</summary>
+
+<details>
+####  <summary>Multi-Robot Task Allocation (MRTA)</summary>
   Description
   Formulation
   Learning architecture
