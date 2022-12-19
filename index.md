@@ -15,11 +15,16 @@
 Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State University of New York at Buffalo (2020 - Present)
 
 
-### Graph based Reinforcement Learning for Complex Combinatorial Optmization Problems
-
 ## Projects
-<details>
-<summary>#### Multi-Robot Task Allocation (MRTA)</summary>
+
+### Graph based Reinforcement Learning for Complex Combinatorial Optmization Problems
+#### <details>
+<summary>Multi-Robot Task Allocation (MRTA)</summary>
+  Description
+  Formulation
+  Learning architecture
+  Results
+  Publications
 </details>
 
 
