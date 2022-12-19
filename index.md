@@ -15,7 +15,14 @@
 Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State University of New York at Buffalo (2020 - Present)
 
 ## Projects
+<details>
 <summary>Click me</summary>
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+</details>
 
 ### Graph based Reinforcement Learning for Complex Combinatorial Optmization Problems
 
