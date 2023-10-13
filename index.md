@@ -18,10 +18,10 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
 ## Projects
 <details>
  <summary><span style="cursor:pointer;">
-    <h2>Graph-based Reinforcement Learning for Complex Combinatorial Optimization Problems</h2></span></summary>
+    <h3>Graph-based Reinforcement Learning for Complex Combinatorial Optimization Problems</h3></span></summary>
 
   <details> 
-     <summary><span style="cursor:pointer; background-color:yellow;"><h3><u>Capacitated Vehicle Routing Problem (CVRP)</u> -></h3></span></summary>
+     <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Capacitated Vehicle Routing Problem (CVRP)</u> -></h4></span></summary>
      <figure class="highlight">
         <pre>
             <code class="language-ruby" data-lang="ruby">
