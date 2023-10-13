@@ -16,103 +16,105 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
 
 
 ## Projects
-
-### Graph-based Reinforcement Learning for Complex Combinatorial Optimization Problems
-
 <details>
-   <summary><span style="cursor:pointer; background-color:yellow;"><u>Capacitated Vehicle Routing Problem (CVRP)</u> -></span></summary>
-   <figure class="highlight">
-      <pre>
-          <code class="language-ruby" data-lang="ruby">
-            <span class="nb"></span> <span class="s1">
-              Description
-              Formulation
-              Learning architecture
-              Results
-              Publications
-            </span>
-          </code>
-      </pre>
-  </figure>
-   
-</details>
+  <summary><span style="cursor:pointer;"><u>
+    ### Graph-based Reinforcement Learning for Complex Combinatorial Optimization Problems</u>></span></summary>
+  <details>
+     <summary><span style="cursor:pointer; background-color:yellow;"><u>Capacitated Vehicle Routing Problem (CVRP)</u> -></span></summary>
+     <figure class="highlight">
+        <pre>
+            <code class="language-ruby" data-lang="ruby">
+              <span class="nb"></span> <span class="s1">
+                Description
+                Formulation
+                Learning architecture
+                Results
+                Publications
+              </span>
+            </code>
+        </pre>
+    </figure>
+     
+  </details>
+  
+   <details>
+     <summary><span style="cursor:pointer; background-color:yellow;"><u>Multi-Robot Task Allocation (MRTA)</u> -></span></summary>
+  <!--    <summary>Multi-Robot Task Allocation (MRTA) -></summary> -->
+     <figure class="highlight">
+        <pre>
+            <code class="language-ruby" data-lang="ruby">
+              <span class="nb"></span> <span class="s1">
+                Description
+                Formulation
+                Learning architecture
+                Results
+                Publications
+              </span>
+            </code>
+        </pre>
+    </figure>
+     
+  </details>
+  
+   <details>
+     <summary><span style="cursor:pointer; background-color:yellow;"><u>Multi-Robot Task Allocation - Collective Transport</u> -></span></summary>
+  <!--    <summary>Multi-Robot Task Allocation - Collective Transport -></summary> -->
+     <figure class="highlight">
+        <pre>
+            <code class="language-ruby" data-lang="ruby">
+              <span class="nb"></span> <span class="s1">
+                Description
+                Formulation
+                Learning architecture
+                Results
+                Publications
+              </span>
+            </code>
+        </pre>
+    </figure>
+     
+  <iframe width="560" height="315" src="https://github.com/iamstevepaul/iamstevepaul.github.io/assets/39541194/b1c9ffa0-17c6-4486-965c-fa099431be79" frameborder="0" allowfullscreen></iframe>
+  
+  
+  
+  
+  </details>
+   <details>
+     <summary><span style="cursor:pointer; background-color:yellow;"><u>Urban Air Mobility (UAM) Fleet Scheduling</u> -></span></summary>
+  <!--    <summary>Urban Air Mobility (UAM) Fleet Scheduling -></summary> -->
+     <figure class="highlight">
+        <pre>
+            <code class="language-ruby" data-lang="ruby">
+              <span class="nb"></span> <span class="s1">
+                Description
+                Formulation
+                Learning architecture
+                Results
+                Publications
+              </span>
+            </code>
+        </pre>
+    </figure>
+  </details>
+  
+  <details>
+    <summary><span style="cursor:pointer; background-color:yellow;"><u>Power Network Reconfiguration</u> -></span></summary>
+     <summary>Power Network Reconfiguration -></summary>
+     <figure class="highlight">
+        <pre>
+            <code class="language-ruby" data-lang="ruby">
+              <span class="nb"></span> <span class="s1">
+                Description
+                Formulation
+                Learning architecture
+                Results
+                Publications
+              </span>
+            </code>
+        </pre>
+    </figure>
+  </details>
 
- <details>
-   <summary><span style="cursor:pointer; background-color:yellow;"><u>Multi-Robot Task Allocation (MRTA)</u> -></span></summary>
-<!--    <summary>Multi-Robot Task Allocation (MRTA) -></summary> -->
-   <figure class="highlight">
-      <pre>
-          <code class="language-ruby" data-lang="ruby">
-            <span class="nb"></span> <span class="s1">
-              Description
-              Formulation
-              Learning architecture
-              Results
-              Publications
-            </span>
-          </code>
-      </pre>
-  </figure>
-   
-</details>
-
- <details>
-   <summary><span style="cursor:pointer; background-color:yellow;"><u>Multi-Robot Task Allocation - Collective Transport</u> -></span></summary>
-<!--    <summary>Multi-Robot Task Allocation - Collective Transport -></summary> -->
-   <figure class="highlight">
-      <pre>
-          <code class="language-ruby" data-lang="ruby">
-            <span class="nb"></span> <span class="s1">
-              Description
-              Formulation
-              Learning architecture
-              Results
-              Publications
-            </span>
-          </code>
-      </pre>
-  </figure>
-   
-<iframe width="560" height="315" src="https://github.com/iamstevepaul/iamstevepaul.github.io/assets/39541194/b1c9ffa0-17c6-4486-965c-fa099431be79" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-</details>
- <details>
-   <summary><span style="cursor:pointer; background-color:yellow;"><u>Urban Air Mobility (UAM) Fleet Scheduling</u> -></span></summary>
-<!--    <summary>Urban Air Mobility (UAM) Fleet Scheduling -></summary> -->
-   <figure class="highlight">
-      <pre>
-          <code class="language-ruby" data-lang="ruby">
-            <span class="nb"></span> <span class="s1">
-              Description
-              Formulation
-              Learning architecture
-              Results
-              Publications
-            </span>
-          </code>
-      </pre>
-  </figure>
-</details>
-
-<details>
-  <summary><span style="cursor:pointer; background-color:yellow;"><u>Power Network Reconfiguration</u> -></span></summary>
-   <summary>Power Network Reconfiguration -></summary>
-   <figure class="highlight">
-      <pre>
-          <code class="language-ruby" data-lang="ruby">
-            <span class="nb"></span> <span class="s1">
-              Description
-              Formulation
-              Learning architecture
-              Results
-              Publications
-            </span>
-          </code>
-      </pre>
-  </figure>
 </details>
 
 
