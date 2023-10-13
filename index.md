@@ -21,35 +21,59 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
 
 
  <details>
-<!--  <summary>Multi-Robot Task Allocation (MRTA)</summary>
-  Description
-  Formulation
-  Learning architecture
-  Results
-  Publications -->
- <summary>Multi-Robot Task Allocation (MRTA)</summary>
- <figure class="highlight">
-    <pre>
-        <code class="language-ruby" data-lang="ruby">
-        <span class="nb"></span> <span class="s1">
-  Description
-  Formulation
-  Learning architecture
-  Results
-  Publications
-        </span>
-        </code>
-    </pre>
-</figure>
+   <summary>Multi-Robot Task Allocation (MRTA)</summary>
+   <figure class="highlight">
+      <pre>
+          <code class="language-ruby" data-lang="ruby">
+            <span class="nb"></span> <span class="s1">
+              Description
+              Formulation
+              Learning architecture
+              Results
+              Publications
+            </span>
+          </code>
+      </pre>
+  </figure>
+   
+
+https://github.com/iamstevepaul/iamstevepaul.github.io/assets/39541194/b1c9ffa0-17c6-4486-965c-fa099431be79
+
+
+</details>
+ <details>
+   <summary>Urban Air Mobility (UAM) Fleet Scheduling</summary>
+   <figure class="highlight">
+      <pre>
+          <code class="language-ruby" data-lang="ruby">
+            <span class="nb"></span> <span class="s1">
+              Description
+              Formulation
+              Learning architecture
+              Results
+              Publications
+            </span>
+          </code>
+      </pre>
+  </figure>
+</details>
+<details>
+   <summary>Power Network Reconfiguration</summary>
+   <figure class="highlight">
+      <pre>
+          <code class="language-ruby" data-lang="ruby">
+            <span class="nb"></span> <span class="s1">
+              Description
+              Formulation
+              Learning architecture
+              Results
+              Publications
+            </span>
+          </code>
+      </pre>
+  </figure>
 </details>
 
-
-
-
-
-#### Urban Air Mobility (UAM) Fleet Scheduling
-
-#### Power Network Recongifugration
 
 
 
