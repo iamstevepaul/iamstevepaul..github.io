@@ -38,7 +38,7 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
   </details>
   
    <details>
-     <summary><span style="cursor:pointer; background-color:yellow;"><u>Multi-Robot Task Allocation (MRTA)</u> -></span></summary>
+     <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Multi-Robot Task Allocation (MRTA)</u> -></h4></span></summary>
      <figure class="highlight">
         <pre>
             <code class="language-ruby" data-lang="ruby">
@@ -55,7 +55,7 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
   </details>
   
    <details>
-     <summary><span style="cursor:pointer; background-color:yellow;"><u>Multi-Robot Task Allocation - Collective Transport</u> -></span></summary>
+     <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Multi-Robot Task Allocation - Collective Transport</u> -></h4></span></summary>
      <figure class="highlight">
         <pre>
             <code class="language-ruby" data-lang="ruby">
@@ -77,7 +77,7 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
   
   </details>
    <details>
-     <summary><span style="cursor:pointer; background-color:yellow;"><u>Urban Air Mobility (UAM) Fleet Scheduling</u> -></span></summary>
+     <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Urban Air Mobility (UAM) Fleet Scheduling</u> -></h4></span></summary>
      <figure class="highlight">
         <pre>
             <code class="language-ruby" data-lang="ruby">
@@ -94,7 +94,7 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
   </details>
   
   <details>
-    <summary><span style="cursor:pointer; background-color:yellow;"><u>Power Network Reconfiguration</u> -></span></summary>
+    <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Power Network Reconfiguration</u> -></h4></span></summary>
      <figure class="highlight">
         <pre>
             <code class="language-ruby" data-lang="ruby">
