@@ -2,8 +2,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/39541194/179893972-5e803669-9b58-4531-bce8-45f0a7470f24.jpg">
-  <img align="right" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/39541194/179893972-5e803669-9b58-4531-bce8-45f0a7470f24.jpg" width="300" height="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iamstevepaul/iamstevepaul.github.io/blob/main/github_page/IMG-8032-PhotoRoom.png-PhotoRoom.png">
+  <img align="right" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/39541194/179893972-5e803669-9b58-4531-bce8-45f0a7470f24.jpg" width="350" height="400">
 </picture>
 
 
@@ -17,7 +17,8 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
 
 ## Projects
 
-### Graph based Reinforcement Learning for Complex Combinatorial Optmization Problems
+### Graph-based Reinforcement Learning for Complex Combinatorial Optimization Problems
+
 
  <details>
 <!--  <summary>Multi-Robot Task Allocation (MRTA)</summary>
@@ -30,12 +31,14 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
  <figure class="highlight">
     <pre>
         <code class="language-ruby" data-lang="ruby">
-        <span class="nb">puts</span> <span class="s1">'Description
+        <span class="nb"></span> <span class="s1">'Description
   Formulation
   Learning architecture
   Results
-  Publications'</span>
+  Publications'
+        </span>
         </code>
+
     </pre>
 </figure>
 </details>
