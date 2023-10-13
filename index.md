@@ -32,10 +32,12 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
         <pre>
             <code class="language-ruby" data-lang="ruby">
               <span class="nb"></span> <span class="s1">
+                <h5>Formulation:</h5>
 <!--                 Description
                 Formulation
                 Learning architecture
                 Results -->
+                <img width="405" alt="Problem_description" src="https://github.com/iamstevepaul/iamstevepaul.github.io/assets/39541194/4befb7de-27a4-4ca9-8608-236f270c6895">
                 Tags: Capacitated Vehicle Routing Problem, CVRP, Reinforcement Learning, Graph Neural Networks
                 Publication: <a href="https://par.nsf.gov/servlets/purl/10345362" target="_blank">ASME-IDETC 2022 </a>
               </span>
