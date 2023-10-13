@@ -96,7 +96,7 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Learning architecture
                 Results -->
                 Tags: Urban Air Mobility, Advanced Air Mobility, Fleet Planning, Reinforcement Learning, Graph Neural Networks, Multi-Agent Systems
-                Publications: <a href="https://ieeexplore.ieee.org/document/10161517" target="_blank">IEEE-TPEC 2022</a>, <a href="https://www.researchsquare.com/article/rs-3276125/v1" target="_blank">Nature Communications (Under revision)</a>
+                Publications: <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2022-3911" target="_blank"> AIAA-AVIATION 2022 </a>
               </span>
             </code>
         </pre>
@@ -114,7 +114,7 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Learning architecture
                 Results -->
                 Tags: Power Networks, Network Reconfiguration, Reinforcement Learning, Graph Neural Networks
-                Publications: <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2022-3911" target="_blank"> AIAA-AVIATION 2022 </a>
+                Publications: <a href="https://ieeexplore.ieee.org/document/10161517" target="_blank">IEEE-TPEC 2022</a>, <a href="https://www.researchsquare.com/article/rs-3276125/v1" target="_blank">Nature Communications (Under revision)</a>
               </span>
             </code>
         </pre>
