@@ -32,11 +32,11 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
         <pre>
             <code class="language-ruby" data-lang="ruby">
               <span class="nb"></span> <span class="s1">
-                Description
+<!--                 Description
                 Formulation
                 Learning architecture
-                Results
-                Publications
+                Results -->
+                Publication: <a href="https://ieeexplore.ieee.org/abstract/document/9812370">ASME-IDETC 2022 </a>
               </span>
             </code>
         </pre>
@@ -49,11 +49,11 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
         <pre>
             <code class="language-ruby" data-lang="ruby">
               <span class="nb"></span> <span class="s1">
-                Description
+<!--                 Description
                 Formulation
                 Learning architecture
-                Results
-                Publications
+                Results -->
+                Publication: <a href="https://par.nsf.gov/servlets/purl/10345362">IEEE-ICRA 2022 (Nominated for Outstanding Coordination paper)</a>
               </span>
             </code>
         </pre>
