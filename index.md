@@ -19,9 +19,44 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
 
 ### Graph-based Reinforcement Learning for Complex Combinatorial Optimization Problems
 
+<details>
+   <summary>Capacitated Vehicle Routing Problem (CVRP) -></summary>
+   <figure class="highlight">
+      <pre>
+          <code class="language-ruby" data-lang="ruby">
+            <span class="nb"></span> <span class="s1">
+              Description
+              Formulation
+              Learning architecture
+              Results
+              Publications
+            </span>
+          </code>
+      </pre>
+  </figure>
+   
+</details>
 
  <details>
-   <summary>Multi-Robot Task Allocation (MRTA)</summary>
+   <summary>Multi-Robot Task Allocation (MRTA) -></summary>
+   <figure class="highlight">
+      <pre>
+          <code class="language-ruby" data-lang="ruby">
+            <span class="nb"></span> <span class="s1">
+              Description
+              Formulation
+              Learning architecture
+              Results
+              Publications
+            </span>
+          </code>
+      </pre>
+  </figure>
+   
+</details>
+
+ <details>
+   <summary>Multi-Robot Task Allocation - Collective Transport -></summary>
    <figure class="highlight">
       <pre>
           <code class="language-ruby" data-lang="ruby">
@@ -43,7 +78,7 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
 
 </details>
  <details>
-   <summary>Urban Air Mobility (UAM) Fleet Scheduling</summary>
+   <summary>Urban Air Mobility (UAM) Fleet Scheduling -></summary>
    <figure class="highlight">
       <pre>
           <code class="language-ruby" data-lang="ruby">
@@ -59,7 +94,9 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
   </figure>
 </details>
 <details>
-   <summary>Power Network Reconfiguration</summary>
+
+  
+   <summary>Power Network Reconfiguration -></summary>
    <figure class="highlight">
       <pre>
           <code class="language-ruby" data-lang="ruby">
