@@ -16,10 +16,10 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
 
 
 ## Projects
-<details><h2>
+<details>
  <summary><span style="cursor:pointer;"><u>
-    Graph-based Reinforcement Learning for Complex Combinatorial Optimization Problems</u></span></summary>
-</h2>
+    <h2>Graph-based Reinforcement Learning for Complex Combinatorial Optimization Problems</h2></u></span></summary>
+
   <details> 
      <summary><span style="cursor:pointer; background-color:yellow;"><u>Capacitated Vehicle Routing Problem (CVRP)</u> -></span></summary>
      <figure class="highlight">
@@ -35,12 +35,10 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
             </code>
         </pre>
     </figure>
-     
   </details>
   
    <details>
      <summary><span style="cursor:pointer; background-color:yellow;"><u>Multi-Robot Task Allocation (MRTA)</u> -></span></summary>
-  <!--    <summary>Multi-Robot Task Allocation (MRTA) -></summary> -->
      <figure class="highlight">
         <pre>
             <code class="language-ruby" data-lang="ruby">
@@ -54,12 +52,10 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
             </code>
         </pre>
     </figure>
-     
   </details>
   
    <details>
      <summary><span style="cursor:pointer; background-color:yellow;"><u>Multi-Robot Task Allocation - Collective Transport</u> -></span></summary>
-  <!--    <summary>Multi-Robot Task Allocation - Collective Transport -></summary> -->
      <figure class="highlight">
         <pre>
             <code class="language-ruby" data-lang="ruby">
@@ -82,7 +78,6 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
   </details>
    <details>
      <summary><span style="cursor:pointer; background-color:yellow;"><u>Urban Air Mobility (UAM) Fleet Scheduling</u> -></span></summary>
-  <!--    <summary>Urban Air Mobility (UAM) Fleet Scheduling -></summary> -->
      <figure class="highlight">
         <pre>
             <code class="language-ruby" data-lang="ruby">
@@ -100,7 +95,6 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
   
   <details>
     <summary><span style="cursor:pointer; background-color:yellow;"><u>Power Network Reconfiguration</u> -></span></summary>
-     <summary>Power Network Reconfiguration -></summary>
      <figure class="highlight">
         <pre>
             <code class="language-ruby" data-lang="ruby">
