@@ -31,14 +31,14 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
  <figure class="highlight">
     <pre>
         <code class="language-ruby" data-lang="ruby">
-        <span class="nb"></span> <span class="s1">'Description
+        <span class="nb"></span> <span class="s1">
+  Description
   Formulation
   Learning architecture
   Results
-  Publications'
+  Publications
         </span>
         </code>
-
     </pre>
 </figure>
 </details>
