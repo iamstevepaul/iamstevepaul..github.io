@@ -36,7 +36,7 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Formulation
                 Learning architecture
                 Results -->
-                Publication: <a href="https://ieeexplore.ieee.org/abstract/document/9812370">ASME-IDETC 2022 </a>
+                Publication: <a href="https://ieeexplore.ieee.org/abstract/document/9812370" target="_blank">ASME-IDETC 2022 </a>
               </span>
             </code>
         </pre>
@@ -53,7 +53,7 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Formulation
                 Learning architecture
                 Results -->
-                Publication: <a href="https://par.nsf.gov/servlets/purl/10345362">IEEE-ICRA 2022 (Nominated for Outstanding Coordination paper)</a>
+                Publication: <a href="https://par.nsf.gov/servlets/purl/10345362" target="_blank">IEEE-ICRA 2022 (Nominated for Outstanding Coordination paper)</a>
               </span>
             </code>
         </pre>
