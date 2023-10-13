@@ -20,7 +20,7 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
 ### Graph-based Reinforcement Learning for Complex Combinatorial Optimization Problems
 
 <details>
-   <summary>Capacitated Vehicle Routing Problem (CVRP) -></summary>
+   <summary><u>Capacitated Vehicle Routing Problem (CVRP)</u> -></summary>
    <figure class="highlight">
       <pre>
           <code class="language-ruby" data-lang="ruby">
