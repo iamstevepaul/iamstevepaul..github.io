@@ -36,6 +36,7 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Formulation
                 Learning architecture
                 Results -->
+                Tags: Capacitated Vehicle Routing Problem, Reinforcement Learning, Graph Neural Networks
                 Publication: <a href="https://par.nsf.gov/servlets/purl/10345362" target="_blank">ASME-IDETC 2022 </a>
               </span>
             </code>
