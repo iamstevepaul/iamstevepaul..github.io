@@ -38,7 +38,8 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
 </details>
 
  <details>
-   <summary>Multi-Robot Task Allocation (MRTA) -></summary>
+   <summary><span style="cursor:pointer; background-color:yellow;"><u>Multi-Robot Task Allocation (MRTA) -></u> -></span></summary>
+<!--    <summary>Multi-Robot Task Allocation (MRTA) -></summary> -->
    <figure class="highlight">
       <pre>
           <code class="language-ruby" data-lang="ruby">
@@ -56,7 +57,8 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
 </details>
 
  <details>
-   <summary>Multi-Robot Task Allocation - Collective Transport -></summary>
+   <summary><span style="cursor:pointer; background-color:yellow;"><u>Multi-Robot Task Allocation - Collective Transport -></u> -></span></summary>
+<!--    <summary>Multi-Robot Task Allocation - Collective Transport -></summary> -->
    <figure class="highlight">
       <pre>
           <code class="language-ruby" data-lang="ruby">
@@ -78,7 +80,8 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
 
 </details>
  <details>
-   <summary>Urban Air Mobility (UAM) Fleet Scheduling -></summary>
+   <summary><span style="cursor:pointer; background-color:yellow;"><u>Urban Air Mobility (UAM) Fleet Scheduling -></u> -></span></summary>
+<!--    <summary>Urban Air Mobility (UAM) Fleet Scheduling -></summary> -->
    <figure class="highlight">
       <pre>
           <code class="language-ruby" data-lang="ruby">
@@ -93,9 +96,9 @@ Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State
       </pre>
   </figure>
 </details>
-<details>
 
-  
+<details>
+  <summary><span style="cursor:pointer; background-color:yellow;"><u>Power Network Reconfiguration -></u> -></span></summary>
    <summary>Power Network Reconfiguration -></summary>
    <figure class="highlight">
       <pre>
