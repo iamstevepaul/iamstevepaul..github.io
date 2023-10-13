@@ -66,11 +66,11 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
         <pre>
             <code class="language-ruby" data-lang="ruby">
               <span class="nb"></span> <span class="s1">
-                Description
+<!--                 Description
                 Formulation
                 Learning architecture
-                Results
-                Publications
+                Results -->
+                Publications: <a href="https://ieeexplore.ieee.org/document/10161517" target="_blank">IEEE-ICRA 2023</a>
               </span>
             </code>
         </pre>
@@ -88,11 +88,11 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
         <pre>
             <code class="language-ruby" data-lang="ruby">
               <span class="nb"></span> <span class="s1">
-                Description
+<!--                 Description
                 Formulation
                 Learning architecture
-                Results
-                Publications
+                Results -->
+                Publications: <a href="https://ieeexplore.ieee.org/document/10161517" target="_blank">IEEE-TPEC 2022</a>, <a href="https://www.researchsquare.com/article/rs-3276125/v1" target="_blank">Nature Communications (Under revision)</a>
               </span>
             </code>
         </pre>
@@ -105,11 +105,11 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
         <pre>
             <code class="language-ruby" data-lang="ruby">
               <span class="nb"></span> <span class="s1">
-                Description
+<!--                 Description
                 Formulation
                 Learning architecture
-                Results
-                Publications
+                Results -->
+                Publications: <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2022-3911" target="_blank"> AIAA-AVIATION 2022 </a>
               </span>
             </code>
         </pre>
@@ -128,11 +128,11 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
         <pre>
             <code class="language-ruby" data-lang="ruby">
               <span class="nb"></span> <span class="s1">
-                Description
+<!--                 Description
                 Formulation
                 Learning architecture
-                Results
-                Publications
+                Results -->
+                Publications: <a href="https://arxiv.org/abs/2308.09075" target="_blank">IEEE-IROS 2023</a>, <a href="https://arxiv.org/abs/2302.05849" target="_blank">AIAA-SciTech 2023</a>
               </span>
             </code>
         </pre>
@@ -145,10 +145,10 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
         <pre>
             <code class="language-ruby" data-lang="ruby">
               <span class="nb"></span> <span class="s1">
-                Description
+<!--                 Description
                 Formulation
                 Learning architecture
-                Results
+                Results -->
                 Publications
               </span>
             </code>
@@ -162,10 +162,10 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
         <pre>
             <code class="language-ruby" data-lang="ruby">
               <span class="nb"></span> <span class="s1">
-                Description
+<!--                 Description
                 Formulation
                 Learning architecture
-                Results
+                Results -->
                 Publications
               </span>
             </code>
