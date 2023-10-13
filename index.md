@@ -14,6 +14,11 @@
 
 Ph.D. Candidate: Department of Mechanical and Aerospace Engineering (MAE), State University of New York at Buffalo (2020 - Present)
 
+## About Me: 
+I am a Ph.D. candidate in ADAMS Lab, University at Buffalo. My advisor is Dr. Souma Chowdhury. My main research revolves around developing learning-based solutions for complex single/multi-agent combinatorial optimization (planning, scheduling, routing, etc.) with sequential decision-making, considering various environmental and operational uncertainties, in the field of robotics and operations research. Unlike a deterministic problem, where the solutions can be precomputed using expensive solvers, for a dynamic uncertain environment, adaptability is the key to fast efficient decision-making. I make use of the representational power of Graph Neural Networks (GNN) and Topological Data (TDA), for better state information abstraction of various complex single/multi-agent problems (considering centralized and decentralized asynchronous decision-making), to learn optimal policies. 
+My passions include reading, working out, hiking, piano, soccer, and astronomy.
+
+
 
 ## Projects
 <details>
