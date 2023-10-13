@@ -24,7 +24,7 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
 ## Projects
 <details>
  <summary><span style="cursor:pointer;">
-    <h3>Graph-based Reinforcement Learning for Complex Combinatorial Optimization Problems</h3></span></summary>
+    <h3>Main Projects</h3></span></summary>
 
   <details> 
      <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Capacitated Vehicle Routing Problem (CVRP)</u> -></h4></span></summary>
@@ -101,6 +101,63 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
   
   <details>
     <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Power Network Reconfiguration</u> -></h4></span></summary>
+     <figure class="highlight">
+        <pre>
+            <code class="language-ruby" data-lang="ruby">
+              <span class="nb"></span> <span class="s1">
+                Description
+                Formulation
+                Learning architecture
+                Results
+                Publications
+              </span>
+            </code>
+        </pre>
+    </figure>
+  </details>
+
+</details>
+
+<details>
+ <summary><span style="cursor:pointer;">
+    <h3>Contributed Projects</h3></span></summary>
+
+   <details>
+     <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Urban Air Mobility (UAM) Vertiport Management</u> -></h4></span></summary>
+     <figure class="highlight">
+        <pre>
+            <code class="language-ruby" data-lang="ruby">
+              <span class="nb"></span> <span class="s1">
+                Description
+                Formulation
+                Learning architecture
+                Results
+                Publications
+              </span>
+            </code>
+        </pre>
+    </figure>
+  </details>
+
+   <details>
+     <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Concurrent Design for robots for complex urban mission</u> -></h4></span></summary>
+     <figure class="highlight">
+        <pre>
+            <code class="language-ruby" data-lang="ruby">
+              <span class="nb"></span> <span class="s1">
+                Description
+                Formulation
+                Learning architecture
+                Results
+                Publications
+              </span>
+            </code>
+        </pre>
+    </figure>
+  </details>
+
+   <details>
+     <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Concurrent Design for robots for Multi-Robot Task Allocation</u> -></h4></span></summary>
      <figure class="highlight">
         <pre>
             <code class="language-ruby" data-lang="ruby">
