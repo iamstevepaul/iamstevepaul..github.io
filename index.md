@@ -28,23 +28,23 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
 
   <details> 
      <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Capacitated Vehicle Routing Problem (CVRP)</u> -></h4></span></summary>
-     <figure class="highlight">
-        <pre>
-            <code class="language-ruby" data-lang="ruby">
+<!--      <figure class="highlight"> -->
+<!--         <pre> -->
+<!--             <code class="language-ruby" data-lang="ruby"> -->
               <span class="nb"></span> <span class="s1">
-                <h5>Formulation:</h5>
+<!--                 <h5>Formulation:</h5> -->
 <!--                 Description
                 Formulation
                 Learning architecture
                 Results -->
-                CVRP serves as an important benchmark for a wide range of combinatorial planning problems, which can be adapted to manufacturing, robotics and fleet planning applications. Here, the specific aim is to demonstrate the significant real-time executability and (beyond training) scalability advantages of the new graph learning approach over existing solution methods. While partly drawing motivation from recent graph learning methods that learn to solve CO problems such as multi-Traveling Salesman Problem (mTSP) and VRP, the proposed neural architecture presents a novel encoder-decoder architecture. Here the encoder is based on Capsule networks, which enables better representation of local and global information with permutation invariant node embeddings; and the decoder is based on the Multi-head attention (MHA) mechanism allowing sequential decisions. This architecture is trained using a policy gradient Reinforcement Learning process. The performance of our approach is favorably compared with state-of-the-art learning and non-learning methods for a benchmark suite of Capacitated-VRP (CVRP) problems. 
-                <img width="392" alt="Problem Formulation" src="https://github.com/iamstevepaul/iamstevepaul.github.io/assets/39541194/0ee122b6-65aa-4a5c-b933-1ff1f2514114">
+<!--                 CVRP serves as an important benchmark for a wide range of combinatorial planning problems, which can be adapted to manufacturing, robotics, and fleet planning applications. Here, the specific aim is to demonstrate the significant real-time executability and (beyond training) scalability advantages of the new graph learning approach over existing solution methods. While partly drawing motivation from recent graph learning methods that learn to solve CO problems such as multi-Traveling Salesman Problem (mTSP) and VRP, the proposed neural architecture presents a novel encoder-decoder architecture. Here the encoder is based on Capsule networks, which enables better representation of local and global information with permutation invariant node embeddings; and the decoder is based on the Multi-head attention (MHA) mechanism allowing sequential decisions. This architecture is trained using a policy gradient Reinforcement Learning process. The performance of our approach is favorably compared with state-of-the-art learning and non-learning methods for a benchmark suite of Capacitated-VRP (CVRP) problems.  -->
+<!--                 <img width="392" alt="Problem Formulation" src="https://github.com/iamstevepaul/iamstevepaul.github.io/assets/39541194/0ee122b6-65aa-4a5c-b933-1ff1f2514114"> -->
                 Tags: Capacitated Vehicle Routing Problem, CVRP, Reinforcement Learning, Graph Neural Networks
                 Publication: <a href="https://par.nsf.gov/servlets/purl/10345362" target="_blank">ASME-IDETC 2022 </a>
               </span>
-            </code>
-        </pre>
-    </figure>
+<!--             </code> -->
+<!--         </pre> -->
+<!--     </figure> -->
           <iframe width="560" height="315" src="https://www.youtube.com/embed/UydxyDbunKY?si=kPtChnXmOQjb3t9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </details>
   
