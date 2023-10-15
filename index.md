@@ -61,6 +61,7 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Learning architecture
                 Results -->
                 Tags: Multi-Robot Task Allocation, MRTA, Reinforcement Learning, Graph Neural Networks, Multi-Agent Systems,
+                
                 Publications: <a href="https://ieeexplore.ieee.org/abstract/document/9812370" target="_blank">IEEE-ICRA 2022 (Nominated for Outstanding Coordination paper)</a>
               </span>
 <!--             </code>
@@ -81,6 +82,7 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Learning architecture
                 Results -->
                 Tags: Multi-Robot Task Allocation, MRTA, Reinforcement Learning, Graph Neural Networks, Multi-Agent Systems,
+                
                 Publications: <a href="https://ieeexplore.ieee.org/document/10161517" target="_blank">IEEE-ICRA 2023</a>
               </span>
 <!--             </code>
@@ -104,6 +106,7 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Learning architecture
                 Results -->
                 Tags: Urban Air Mobility, Advanced Air Mobility, Fleet Planning, Reinforcement Learning, Graph Neural Networks, Multi-Agent Systems,
+                
                 Publications: <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2022-3911" target="_blank"> AIAA-AVIATION 2022 </a>
               </span>
 <!--             </code>
@@ -122,6 +125,7 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Learning architecture
                 Results -->
                 Tags: Power Networks, Network Reconfiguration, Reinforcement Learning, Graph Neural Networks,
+                
                 Publications: <a href="https://ieeexplore.ieee.org/document/10161517" target="_blank">IEEE-TPEC 2022</a>, <a href="https://www.researchsquare.com/article/rs-3276125/v1" target="_blank">Nature Communications (Under revision)</a>
               </span>
 <!--             </code>
@@ -146,6 +150,7 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Learning architecture
                 Results -->
                 Tags: Urban Air Mobility, Advanced Air Mobility, Vertiport Management, Reinforcement Learning, Graph Neural Networks, Multi-Agent Systems,
+                
                 Publications: <a href="https://arxiv.org/abs/2308.09075" target="_blank">IEEE-IROS 2023</a>, <a href="https://arxiv.org/abs/2302.05849" target="_blank">AIAA-SciTech 2023</a>
               </span>
 <!--             </code>
