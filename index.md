@@ -50,9 +50,9 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
   
    <details>
      <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Multi-Robot Task Allocation (MRTA)</u> -></h4></span></summary>
-     <figure class="highlight">
+<!--      <figure class="highlight">
         <pre>
-            <code class="language-ruby" data-lang="ruby">
+            <code class="language-ruby" data-lang="ruby"> -->
               <span class="nb"></span> <span class="s1">
 <!--                 Description
                 Formulation
@@ -61,18 +61,18 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Tags: Multi-Robot Task Allocation, MRTA, Reinforcement Learning, Graph Neural Networks, Multi-Agent Systems
                 Publication: <a href="https://ieeexplore.ieee.org/abstract/document/9812370" target="_blank">IEEE-ICRA 2022 (Nominated for Outstanding Coordination paper)</a>
               </span>
-            </code>
+<!--             </code>
         </pre>
-    </figure>
+    </figure> -->
       <iframe width="560" height="315" src="https://github.com/iamstevepaul/iamstevepaul.github.io/assets/39541194/311d8dfd-429c-4c4e-9cd8-759f1d928dd4" frameborder="0" allowfullscreen></iframe>
      
   </details>
   
    <details>
      <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Multi-Robot Task Allocation - Collective Transport</u> -></h4></span></summary>
-     <figure class="highlight">
+<!--      <figure class="highlight">
         <pre>
-            <code class="language-ruby" data-lang="ruby">
+            <code class="language-ruby" data-lang="ruby"> -->
               <span class="nb"></span> <span class="s1">
 <!--                 Description
                 Formulation
@@ -81,9 +81,9 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Tags: Multi-Robot Task Allocation, MRTA, Reinforcement Learning, Graph Neural Networks, Multi-Agent Systems
                 Publications: <a href="https://ieeexplore.ieee.org/document/10161517" target="_blank">IEEE-ICRA 2023</a>
               </span>
-            </code>
+<!--             </code>
         </pre>
-    </figure>
+    </figure> -->
      
   <iframe width="560" height="315" src="https://github.com/iamstevepaul/iamstevepaul.github.io/assets/39541194/b1c9ffa0-17c6-4486-965c-fa099431be79" frameborder="0" allowfullscreen></iframe>
   
@@ -93,9 +93,9 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
   </details>
    <details>
      <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Urban Air Mobility (UAM) Fleet Scheduling</u> -></h4></span></summary>
-     <figure class="highlight">
+<!--      <figure class="highlight">
         <pre>
-            <code class="language-ruby" data-lang="ruby">
+            <code class="language-ruby" data-lang="ruby"> -->
               <span class="nb"></span> <span class="s1">
 <!--                 Description
                 Formulation
@@ -104,16 +104,16 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Tags: Urban Air Mobility, Advanced Air Mobility, Fleet Planning, Reinforcement Learning, Graph Neural Networks, Multi-Agent Systems
                 Publications: <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2022-3911" target="_blank"> AIAA-AVIATION 2022 </a>
               </span>
-            </code>
+<!--             </code>
         </pre>
-    </figure>
+    </figure> -->
   </details>
   
   <details>
     <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Power Network Reconfiguration</u> -></h4></span></summary>
-     <figure class="highlight">
+<!--      <figure class="highlight">
         <pre>
-            <code class="language-ruby" data-lang="ruby">
+            <code class="language-ruby" data-lang="ruby"> -->
               <span class="nb"></span> <span class="s1">
 <!--                 Description
                 Formulation
@@ -122,9 +122,9 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Tags: Power Networks, Network Reconfiguration, Reinforcement Learning, Graph Neural Networks
                 Publications: <a href="https://ieeexplore.ieee.org/document/10161517" target="_blank">IEEE-TPEC 2022</a>, <a href="https://www.researchsquare.com/article/rs-3276125/v1" target="_blank">Nature Communications (Under revision)</a>
               </span>
-            </code>
+<!--             </code>
         </pre>
-    </figure>
+    </figure> -->
   </details>
 
 </details>
@@ -135,9 +135,9 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
 
    <details>
      <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Urban Air Mobility (UAM) Vertiport Management</u> -></h4></span></summary>
-     <figure class="highlight">
+<!--      <figure class="highlight">
         <pre>
-            <code class="language-ruby" data-lang="ruby">
+            <code class="language-ruby" data-lang="ruby"> -->
               <span class="nb"></span> <span class="s1">
 <!--                 Description
                 Formulation
@@ -146,16 +146,16 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Tags: Urban Air Mobility, Advanced Air Mobility, Vertiport Management, Reinforcement Learning, Graph Neural Networks, Multi-Agent Systems
                 Publications: <a href="https://arxiv.org/abs/2308.09075" target="_blank">IEEE-IROS 2023</a>, <a href="https://arxiv.org/abs/2302.05849" target="_blank">AIAA-SciTech 2023</a>
               </span>
-            </code>
+<!--             </code>
         </pre>
-    </figure>
+    </figure> -->
   </details>
 
    <details>
      <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Concurrent Design for robots for complex urban mission</u> -></h4></span></summary>
-     <figure class="highlight">
+<!--      <figure class="highlight">
         <pre>
-            <code class="language-ruby" data-lang="ruby">
+            <code class="language-ruby" data-lang="ruby"> -->
               <span class="nb"></span> <span class="s1">
 <!--                 Description
                 Formulation
@@ -163,16 +163,16 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Results -->
                 Publications
               </span>
-            </code>
+<!--             </code>
         </pre>
-    </figure>
+    </figure> -->
   </details>
 
    <details>
      <summary><span style="cursor:pointer; background-color:yellow;"><h4><u>Concurrent Design for robots for Multi-Robot Task Allocation</u> -></h4></span></summary>
-     <figure class="highlight">
+<!--      <figure class="highlight">
         <pre>
-            <code class="language-ruby" data-lang="ruby">
+            <code class="language-ruby" data-lang="ruby"> -->
               <span class="nb"></span> <span class="s1">
 <!--                 Description
                 Formulation
@@ -180,9 +180,9 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Results -->
                 Publications
               </span>
-            </code>
+<!--             </code>
         </pre>
-    </figure>
+    </figure> -->
   </details>
 
 </details>
