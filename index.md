@@ -39,9 +39,11 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Results -->
 <!--                 CVRP serves as an important benchmark for a wide range of combinatorial planning problems, which can be adapted to manufacturing, robotics, and fleet planning applications. Here, the specific aim is to demonstrate the significant real-time executability and (beyond training) scalability advantages of the new graph learning approach over existing solution methods. While partly drawing motivation from recent graph learning methods that learn to solve CO problems such as multi-Traveling Salesman Problem (mTSP) and VRP, the proposed neural architecture presents a novel encoder-decoder architecture. Here the encoder is based on Capsule networks, which enables better representation of local and global information with permutation invariant node embeddings; and the decoder is based on the Multi-head attention (MHA) mechanism allowing sequential decisions. This architecture is trained using a policy gradient Reinforcement Learning process. The performance of our approach is favorably compared with state-of-the-art learning and non-learning methods for a benchmark suite of Capacitated-VRP (CVRP) problems.  -->
 <!--                 <img width="392" alt="Problem Formulation" src="https://github.com/iamstevepaul/iamstevepaul.github.io/assets/39541194/0ee122b6-65aa-4a5c-b933-1ff1f2514114"> -->
+                <div style="white-space: pre-line;">
                 Tags: Capacitated Vehicle Routing Problem, CVRP, Reinforcement Learning, Graph Neural Networks,
-                
                 Publications: <a href="https://par.nsf.gov/servlets/purl/10345362" target="_blank">ASME-IDETC 2022 </a>
+                </div>
+
 
               </span>
 <!--             </code> -->
@@ -60,9 +62,10 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Formulation
                 Learning architecture
                 Results -->
+                <div style="white-space: pre-line;">
                 Tags: Multi-Robot Task Allocation, MRTA, Reinforcement Learning, Graph Neural Networks, Multi-Agent Systems,
-                
                 Publications: <a href="https://ieeexplore.ieee.org/abstract/document/9812370" target="_blank">IEEE-ICRA 2022 (Nominated for Outstanding Coordination paper)</a>
+                </div>
               </span>
 <!--             </code>
         </pre>
@@ -81,9 +84,10 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Formulation
                 Learning architecture
                 Results -->
+                <div style="white-space: pre-line;">
                 Tags: Multi-Robot Task Allocation, MRTA, Reinforcement Learning, Graph Neural Networks, Multi-Agent Systems,
-                
                 Publications: <a href="https://ieeexplore.ieee.org/document/10161517" target="_blank">IEEE-ICRA 2023</a>
+                </div>
               </span>
 <!--             </code>
         </pre>
@@ -105,9 +109,10 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Formulation
                 Learning architecture
                 Results -->
+                <div style="white-space: pre-line;">
                 Tags: Urban Air Mobility, Advanced Air Mobility, Fleet Planning, Reinforcement Learning, Graph Neural Networks, Multi-Agent Systems,
-                
                 Publications: <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2022-3911" target="_blank"> AIAA-AVIATION 2022 </a>
+                </div>
               </span>
 <!--             </code>
         </pre>
@@ -124,9 +129,10 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Formulation
                 Learning architecture
                 Results -->
+                <div style="white-space: pre-line;">
                 Tags: Power Networks, Network Reconfiguration, Reinforcement Learning, Graph Neural Networks,
-                
                 Publications: <a href="https://ieeexplore.ieee.org/document/10161517" target="_blank">IEEE-TPEC 2022</a>, <a href="https://www.researchsquare.com/article/rs-3276125/v1" target="_blank">Nature Communications (Under revision)</a>
+                </div>
               </span>
 <!--             </code>
         </pre>
@@ -149,9 +155,10 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Formulation
                 Learning architecture
                 Results -->
-                Tags: Urban Air Mobility, Advanced Air Mobility, Vertiport Management, Reinforcement Learning, Graph Neural Networks, Multi-Agent Systems,
-                
+                <div style="white-space: pre-line;">
+                Tags: Urban Air Mobility, Advanced Air Mobility, Vertiport Management, Reinforcement Learning, Graph Neural Networks, Multi-Agent Systems,   
                 Publications: <a href="https://arxiv.org/abs/2308.09075" target="_blank">IEEE-IROS 2023</a>, <a href="https://arxiv.org/abs/2302.05849" target="_blank">AIAA-SciTech 2023</a>
+                </div>
               </span>
 <!--             </code>
         </pre>
@@ -168,7 +175,9 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Formulation
                 Learning architecture
                 Results -->
+                <div style="white-space: pre-line;">
                 Publications: Under review
+                </div>
               </span>
 <!--             </code>
         </pre>
@@ -185,7 +194,9 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
                 Formulation
                 Learning architecture
                 Results -->
+                <div style="white-space: pre-line;">
                 Publications: Under review
+                </div>
               </span>
 <!--             </code>
         </pre>
