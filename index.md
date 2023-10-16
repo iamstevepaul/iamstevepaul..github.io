@@ -107,6 +107,7 @@ My passions include reading, working out, hiking, piano, soccer, and astronomy.
 <!--             </code>
         </pre>
     </figure> -->
+    <iframe width="1280" height="756" src="https://www.youtube.com/embed/NJZ5OTzK2rA" title="Graph Reinforcement Learning for Urban Air Mobility Fleet Scheduling (AIAA-AVIATION 2022)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </details>
   
   <details>
