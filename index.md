@@ -1,11 +1,3 @@
-# Steve Paul
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/39541194/179893972-5e803669-9b58-4531-bce8-45f0a7470f24.jpg">
-  <img align="right" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/iamstevepaul/iamstevepaul.github.io/blob/main/github_page/IMG-8032-PhotoRoom.png-PhotoRoom.png" width="300" height="400">
-</picture>
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1PRSPY5GPW"></script>
 <script>
@@ -15,6 +7,14 @@
 
   gtag('config', 'G-1PRSPY5GPW');
 </script>
+# Steve Paul
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/39541194/179893972-5e803669-9b58-4531-bce8-45f0a7470f24.jpg">
+  <img align="right" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/iamstevepaul/iamstevepaul.github.io/blob/main/github_page/IMG-8032-PhotoRoom.png-PhotoRoom.png" width="300" height="400">
+</picture>
+
 
 
 ## Research Assistant: Adaptive Design Algorithms, Models, & Systems (ADAMS) Lab
