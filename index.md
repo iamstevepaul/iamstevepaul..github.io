@@ -6,6 +6,15 @@
   <img align="right" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/iamstevepaul/iamstevepaul.github.io/blob/main/github_page/IMG-8032-PhotoRoom.png-PhotoRoom.png" width="300" height="400">
 </picture>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1PRSPY5GPW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1PRSPY5GPW');
+</script>
 
 
 ## Research Assistant: Adaptive Design Algorithms, Models, & Systems (ADAMS) Lab
